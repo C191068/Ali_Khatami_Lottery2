@@ -62,6 +62,9 @@ and in the second function thatwe will create random number gonna returned <br>
 We have changed it from pick to request <br>
 
 
+![l67](https://github.com/C191068/Ali_Khatami_Lottery2/assets/89090776/21f0598a-13ea-4fb1-b603-e2ccfce33254)
+
+We have created a new function <br>
 
 
 

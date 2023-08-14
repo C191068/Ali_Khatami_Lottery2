@@ -46,6 +46,8 @@ is actually better than having it in one <br>
 
 if it just one transaction people could just brute force tries simulating calling this transaction <br>
 
+Simulate calling these transaction to see what they can manipulate to make sure they are the winner <br>
+
 
 
 

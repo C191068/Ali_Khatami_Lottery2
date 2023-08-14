@@ -30,6 +30,8 @@ So that it can autiomatically run without having us actually interact with it <b
 
 We gonna make it external because external are cheaper than public <br>
 
+because solidity knows that our own contract can call this <br>
+
 
 
 

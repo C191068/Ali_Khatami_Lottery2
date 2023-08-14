@@ -40,6 +40,8 @@ We first have to request the random number <br>
 Then once we get it do something with it <br>
 
 
+Chainlink VRF is a two transaction process <br>
+
 
 
 

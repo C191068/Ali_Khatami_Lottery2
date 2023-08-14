@@ -14,3 +14,7 @@ Here we have added an event <br>
 
 Here we have added to emit that event <br>
 
+We emit an event when we update a dynamic array or mapping <br>
+
+We will name the events with function name reversed <br>
+

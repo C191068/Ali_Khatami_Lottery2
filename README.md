@@ -44,6 +44,8 @@ Chainlink VRF is a two transaction process <br>
 This is actually intentional ,having random nunmber in two transaction <br>
 is actually better than having it in one <br>
 
+if it just one transaction people could just brute force tries simulating calling this transaction <br>
+
 
 
 

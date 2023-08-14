@@ -18,3 +18,7 @@ We emit an event when we update a dynamic array or mapping <br>
 
 We will name the events with function name reversed <br>
 
+
+### Implementing Chainlink VRF
+
+

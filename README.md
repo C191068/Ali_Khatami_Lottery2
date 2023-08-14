@@ -66,6 +66,9 @@ We have changed it from pick to request <br>
 
 We have created a new function <br>
 
+In order to make our contract VRF we have to import chainlink code <br>
+
+
 
 
 

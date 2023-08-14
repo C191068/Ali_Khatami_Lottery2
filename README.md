@@ -49,8 +49,17 @@ if it just one transaction people could just brute force tries simulating callin
 Simulate calling these transaction to see what they can manipulate to make sure they are the winner <br>
 
 
+We wanna make sure that this is absolutely fair and nobody can manipulate our smart contract <br>
+
+The pickRandomChampion function gonna request it <br>
+
+and in the second function thatwe will create random number gonna returned <br>
 
 
+
+![l66](https://github.com/C191068/Ali_Khatami_Lottery2/assets/89090776/749ce971-0fb3-4601-a861-2201f4464551)
+
+We have changed it from pick to request <br>
 
 
 

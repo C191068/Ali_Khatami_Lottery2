@@ -90,7 +90,9 @@ We ned to make our lottery VRF consumer Base able <br>
 
 We will click the above options sequentially <br>
 
+![c6](https://github.com/C191068/Ali_Khatami_Lottery2/assets/89090776/ff083d06-64da-4e8f-898d-305b93287655)
 
+we can see the contract comes with this function fulfillRandomWords <br>
 
 
 

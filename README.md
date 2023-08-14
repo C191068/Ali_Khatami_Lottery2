@@ -68,6 +68,21 @@ We have created a new function <br>
 
 In order to make our contract VRF we have to import chainlink code <br>
 
+![c1](https://github.com/C191068/Ali_Khatami_Lottery2/assets/89090776/15e271ce-09a6-4fa6-bfc6-7f832c1274b8)
+
+we will go to ducumentation and copy the above line shown below <br>
+
+``` import "@chainlink/contracts/src/v0.8/VRFConsumerBaseV2.sol"; ``` <br>
+
+Since we are importing chainlink/contracts we gonna add that in using yarn <br>
+
+
+![c3](https://github.com/C191068/Ali_Khatami_Lottery2/assets/89090776/a3b35071-b43f-4621-88c1-3d16fd0bd16e)
+
+For that we need to use the command shown below <br>
+
+```yarn add --dev @chainlink/contracts``` <br>
+
 
 
 

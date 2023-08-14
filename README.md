@@ -83,7 +83,7 @@ For that we need to use the command shown below <br>
 
 ```yarn add --dev @chainlink/contracts``` <br>
 
-We ned to make our lottery VRF consumer based able <br>
+We ned to make our lottery VRF consumer Base able <br>
 
 
 

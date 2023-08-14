@@ -33,6 +33,12 @@ We gonna make it external because external are cheaper than public <br>
 because solidity knows that our own contract can call this <br>
 
 
+In order us to pick a random winner we have to do actually two things <br>
+
+We first have to request the random number <br>
+
+Then once we get it do something with it <br>
+
 
 
 

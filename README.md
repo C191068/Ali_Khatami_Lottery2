@@ -26,6 +26,9 @@ We will name the events with function name reversed <br>
 The above function is gonna be called by chainlink keepers network <br>
 So that it can autiomatically run without having us actually interact with it <br>
 
+![l65](https://github.com/C191068/Ali_Khatami_Lottery2/assets/89090776/ff671207-9990-4121-b51f-6ba397332e0e)
+
+We gonna make it external because external are cheaper than public <br>
 
 
 

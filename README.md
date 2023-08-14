@@ -86,6 +86,9 @@ For that we need to use the command shown below <br>
 We ned to make our lottery VRF consumer Base able <br>
 
 
+![c4](https://github.com/C191068/Ali_Khatami_Lottery2/assets/89090776/f843888d-ac49-4804-b09a-4804f5662a58)
+
+We will click the above options sequentially <br>
 
 
 

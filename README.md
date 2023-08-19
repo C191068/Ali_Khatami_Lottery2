@@ -1,4 +1,4 @@
-# Ali_Khatami_Lottery2(learning from the video of Patrick Collins)
+![image](https://github.com/C191068/Ali_Khatami_Lottery2/assets/89090776/11e43e73-ffc4-4181-a9af-e7ffe3a63685)# Ali_Khatami_Lottery2(learning from the video of Patrick Collins)
 
 ### Adding Events
 
@@ -164,6 +164,10 @@ contract akrkLottery {
 
 ```
 
+
+![c8](https://github.com/C191068/Ali_Khatami_Lottery2/assets/89090776/b6383018-3260-47f1-a160-cc2f252ca513)
+
+here akrkLottery contract is inheriting all the functionalities of VRFConsumerBaseV2.sol contract <br>
 
 
 

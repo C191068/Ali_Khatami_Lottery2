@@ -95,7 +95,8 @@ We will click the above options sequentially <br>
 we can see the contract comes with this function fulfillRandomWords and it is internal and virtual <br>
 
 
-Virtual means it is expecting to be overriden <br>
+Virtual means it is expecting to be overriden becauser the VRF coordinator which we will use can call this function <br>
+
 
 
 

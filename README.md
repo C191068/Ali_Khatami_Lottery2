@@ -170,6 +170,8 @@ contract akrkLottery {
 here akrkLottery contract is inheriting all the functionalities of VRFConsumerBaseV2.sol contract <br>
 
 
+VRF Coordinator is the address of the contract that does random number verification <br>
+
 
 
 

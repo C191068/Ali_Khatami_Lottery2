@@ -178,6 +178,9 @@ VRF Coordinator is the address of the contract that does random number verificat
 
 In the constructor of akrkLottery.sol we will add VRFConsumerBaseV2() constructor and pass to it <br>
 address of VRFCoorinator contract <br>
+In our main constructor we gonna pass that parameter as well <br>
+
+
 
 
 

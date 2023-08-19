@@ -174,6 +174,10 @@ VRF Coordinator is the address of the contract that does random number verificat
 
 
 
+![c9](https://github.com/C191068/Ali_Khatami_Lottery2/assets/89090776/5d4a5c40-c82d-4d91-bc9f-aa09d4d3c2d6)
+
+In the constructor of akrkLottery.sol we will add VRFConsumerBaseV2() constructor and pass to it <br>
+address of VRFCoorinator contract <br>
 
 
 
